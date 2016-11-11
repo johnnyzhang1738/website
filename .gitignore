@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+javadoc/
+build/
+*.iml
+.idea/compiler.xml
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/website.iml
+.idea/workspace.xml
+css/
